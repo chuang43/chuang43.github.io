@@ -36,6 +36,7 @@ margin-top: auto;
 div, boxing{
 border: 3px solid gray;
 margin: 25px;
+  vertical-align: middle;
 }
 
 p{
