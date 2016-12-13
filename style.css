@@ -34,6 +34,7 @@ margin-top: auto;
 }
 
 div, boxing{
+  min-height: 10em;
   vertical-align: middle;
 border: 3px solid gray;
 margin: 25px;
