@@ -52,7 +52,8 @@ text-indent: 10px;
 
 img, buff {
   margin: 150px;
-  left: 200px;
+  position: absolute;
+  left: 100px;
   top:40px;
   opacity:0.9;
   width: 350px;
