@@ -51,16 +51,7 @@ text-align: center;
 text-indent: 10px;
 }
 
-img, moo {
-  margin: 150px;
-  position: absolute;
-  left: 100px;
-  top:40px;
-  opacity:0.9;
-  width: 350px;
-  height: 350px;
-  border-radius: 25px;
-}
+
 
 img, buffalo{
 margin: 150px;
