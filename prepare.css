@@ -48,3 +48,14 @@ margin-left: auto;
 text-align: center;
 text-indent: 10px;
 }
+
+img, cold{
+margin: 150px;
+position: absolute;
+right: 20px;
+top: 60px;
+opacity: 0.9;
+width: 350px;
+height: 350px;
+border-radius: 25px;
+}
