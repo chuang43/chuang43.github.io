@@ -33,15 +33,14 @@ text-align: center;
 margin-top: auto;
 }
 
-div, boxing{ 
+div, boxing{
   min-height: 10em;
   vertical-align: middle;
- left: 800px;
-background: white;
 border: 3px solid gray;
 margin: 25px;
-float: left;
-opacity: 0.8;
+  width: 300px;
+    height:300px;
+  left: 800px;
 }
 
 p{
