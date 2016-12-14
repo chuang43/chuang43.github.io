@@ -62,3 +62,14 @@ width: 350px;
 height: 350px;
 border-radius: 25px;
 }
+
+img.snow{
+  left: 800px;
+  margin:25px;
+  top: 100px;
+  opacity: 0.9;
+  width:350px;
+  height:350px;
+  border-radius: 25px;
+}
+  
