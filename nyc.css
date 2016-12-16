@@ -1,0 +1,75 @@
+ul{
+list-stle-type: none;
+margin:0;
+padding:0;
+overflow:hidden;
+background-color: #e6f7ff;
+min-width:200px;
+}
+
+li a{
+display: inline-block;
+color: #595959;
+text-align: center;
+padding: 5px 16px;
+text-decoration: none;
+}
+
+li{
+float: left;
+}
+
+.show{display: block;}
+
+body{
+background-color: #cceeff;
+}
+
+h1{
+font-size: 100px;
+font-family: serif;
+color: black;
+text-align: center;
+margin-top: auto;
+}
+
+div, boxing{
+  font-size: 15px;
+  min-height: 10em;
+  vertical-align: middle;
+border: 3px solid gray;
+margin: 25px;
+  width: 500px;
+    height:100px;
+  left: 800px;
+}
+
+p{
+font-size: 20px;
+color:black;
+margin-left: auto;
+text-align: center;
+text-indent: 10px;
+}
+
+img.city{
+margin: 150px;
+position: absolute;
+right: 20px;
+top: 60px;
+opacity: 0.9;
+width: 350px;
+height: 350px;
+border-radius: 25px;
+}
+
+img.nyc{
+  left: 100px;
+  
+  top: 100px;
+  opacity: 0.9;
+  width:350px;
+  height:350px;
+  border-radius: 25px;
+}
+  
