@@ -93,4 +93,14 @@ img.times{
   border-radius: 25px;
 }
   
-  
+  img.sky{
+    
+margin: 150px;
+position: absolute;
+left: 20px;
+top: 60px;
+opacity: 0.9;
+width: 350px;
+height: 350px;
+border-radius: 25px;
+}
