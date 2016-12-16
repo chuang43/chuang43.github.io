@@ -72,4 +72,25 @@ img.nyc{
   height:350px;
   border-radius: 25px;
 }
+
+img.dumbo{
+  margin: 150px;
+position: absolute;
+left: 60px;
+top: 60px;
+opacity: 0.9;
+width: 350px;
+height: 350px;
+border-radius: 25px;
+}
+
+img.times{
+  left: 30px;
+  top: 100px;
+  opacity: 0.9;
+  width:350px;
+  height:350px;
+  border-radius: 25px;
+}
+  
   
