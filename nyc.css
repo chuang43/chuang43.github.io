@@ -93,3 +93,15 @@ width: 350px;
 height: 350px;
 border-radius: 25px;
 }
+
+
+div, boxing{
+  font-size: 15px;
+  min-height: 10em;
+  vertical-align: middle;
+border: 3px solid gray;
+margin: 25px;
+  width: 80px;
+    height:50px;
+  left: 800px;
+}
